@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatAppTutorial
 
 I have deleted google-services.json. Add yours
@@ -11,3 +12,6 @@ I have deleted google-services.json. Add yours
 <br>2 - Firebase Panel
 <br>1 - Create Firebase Project (https://console.firebase.google.com/);
 <br>2 - import the file google-service.json into your project
+=======
+# Ngobrol
+>>>>>>> a65df307c6a15f69fb20b6b140a4119836c9f74b
