@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310875001569",
+    "firebase_url": "https://konkow-cba14.firebaseio.com",
+    "project_id": "konkow-cba14",
+    "storage_bucket": "konkow-cba14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310875001569:android:e2865a230e349b61",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310875001569-fguraa91j79f3n58144lhld2si7es0jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "c513423f07ea9376c538b9a0c8a3eee0656fe3b0"
+          }
+        },
+        {
+          "client_id": "310875001569-kt4h7r1u2i8rivplusvphqtfg1osp3e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTznEbRt_tnpCXGG9X6TSCLbWbv3vRlvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310875001569-kt4h7r1u2i8rivplusvphqtfg1osp3e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
